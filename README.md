@@ -6,5 +6,4 @@ Hello, world!
 
 This is another change.
 
-And yet another change.
-
+Yo, this is a better change.
